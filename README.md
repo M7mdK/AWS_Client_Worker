@@ -1,8 +1,3 @@
-# Team Members:
-
-- Mohamad Kassem
-- Arjun Puliyasseri
-
 # To Run The Project:
 
 1- Using AWS, manually create: EC2 instance, S3 bucket, 2 Fifo queues.
